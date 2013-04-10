@@ -1,0 +1,30 @@
+Z	1	A
+report
+Z	2	A
+report
+Z	3	S	A
+report
+Z	4	S	A
+report
+A	1	R	Z
+report
+A	2	R	Z
+report
+Z	5	A
+report
+Z	6	I
+report
+A	3	S	B
+report
+A	4	I
+report
+B	1	R	A
+report
+Z	7	R	A
+report
+B	2	I
+report
+Z	8	R	B
+report
+Z	9	I
+report
